@@ -81,7 +81,7 @@ In the development environment, CORS is configured to allow requests from any or
 
 ## 🎉 Conclusion
 
-Thank you for exploring the **SupportWave API**!
+Thank you for exploring the **Book Management API**!
 
 We hope this API serves as a valuable tool for managing your book collection and provides a solid foundation for further development.
 
