@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "dba95b90-0edb-49d2-a9d9-7e8fe08c36b9",
+    "Title": "Le crocodile de Botwanga",
+    "Author": "Zamenga",
+    "PublishedDate": "2024-08-15T00:00:00",
+    "ISBN": "168280988982"
+  },
+  {
+    "Id": "106fd0c8-01ff-480e-bdbc-fe81cdb65d8d",
+    "Title": "Mon cher frere",
+    "Author": "Henock",
+    "PublishedDate": "2024-08-15T00:00:00",
+    "ISBN": "9099092009029"
+  }
+]
