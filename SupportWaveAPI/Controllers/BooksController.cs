@@ -19,7 +19,7 @@ namespace SupportWaveAPI.Controllers
         // Retrieve all books
         // GET /api/books
         [HttpGet]
-        public IActionResult GetBooks([FromQuery] int pageNumber = 1, [FromQuery] int pageSize = 10, [FromQuery] string? searchQuery = "")
+        public IActionResult GetBooks([FromQuery] int pageNumber = 1, [FromQuery] int pageSize = 10, [FromQuery] string searchQuery = "")
         {
             try
             {

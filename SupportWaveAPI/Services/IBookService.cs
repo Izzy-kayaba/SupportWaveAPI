@@ -7,7 +7,7 @@ namespace SupportWaveAPI.Services
 {
     public interface IBookService
     {
-        List<Book> GetBooks(int pageNumber, int pageSize, string? searchQuery);
+        List<Book> GetBooks(int pageNumber, int pageSize, string searchQuery);
 
         Book GetBookById(Guid id);
 
